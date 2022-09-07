@@ -5,12 +5,6 @@ console.log(changeButton);
 
 changeButton.addEventListener('click', () => {
     console.log('clicking');
+    nameDisplay.textContent = nameInput.value;
+    nameInput.value = '';
 });
-
-const name = nameInput.value;
-
-console.log(name);
-
-nameDisplay.textContent = name;
-
-nameInput.value = '';

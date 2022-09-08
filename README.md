@@ -15,4 +15,4 @@ target name
 change name display to input values text
 input clears
 
-![](./assets/wireframe2.png)
+![](./assets/wireframe.png)

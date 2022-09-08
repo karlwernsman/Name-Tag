@@ -41,6 +41,7 @@ h2 {
     border-color: lightblue;
     background-color: lightblue;
     text-align: center;
+    font-size: 25px;
 }
 
 #name-display {
@@ -48,6 +49,7 @@ h2 {
     background-color: white;
     color: black;
     text-align: center;
+    font-size: 35px;
 }
 
 #bottom {
@@ -57,4 +59,5 @@ h2 {
 
 h1 {
     color: lightcoral;
+    font-size: 25px;
 }
